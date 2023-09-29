@@ -59,7 +59,7 @@ resetUserHits();
 
 bot.onText(/\/start/, (msg) => {
   const helpMessage = `
-The Telegram bot is online. Sustresser
+The Telegram bot is online.
 
 Help with commands: /help
 Start the bot: /start
